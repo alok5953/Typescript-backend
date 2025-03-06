@@ -2,6 +2,9 @@
 
 A Node.js backend application with TypeScript, PostgreSQL, and automated migrations.
 
+## Author
+Alok Kaushik
+
 ## Setup
 
 1. Install dependencies:
