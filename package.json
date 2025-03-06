@@ -1,8 +1,31 @@
 {
   "name": "typescript-postgres-backend",
   "version": "1.0.0",
-  "description": "Node.js TypeScript backend with PostgreSQL",
-  "author": "Alok Kaushik",
+  "description": "A production-ready Node.js TypeScript backend starter template with PostgreSQL, automated migrations, and modern development practices",
+  "author": "Alok Kaushik <alokkaushik5953@gmail.com>",
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "postgresql",
+    "express",
+    "starter-template",
+    "boilerplate",
+    "backend",
+    "api",
+    "rest-api",
+    "database-migrations",
+    "pg-promise",
+    "production-ready"
+  ],
+  "homepage": "https://github.com/alok5953/Typescript-backend",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok5953/Typescript-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alok5953/Typescript-backend/issues"
+  },
+  "license": "MIT",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
