@@ -2,6 +2,7 @@
   "name": "typescript-postgres-backend",
   "version": "1.0.0",
   "description": "Node.js TypeScript backend with PostgreSQL",
+  "author": "Alok Kaushik",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
